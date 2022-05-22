@@ -1,0 +1,6 @@
+{
+    "guildId":"DiscordServerId",
+    "channelId":"KanalId",
+    "token":"BotToken",
+    "delay":5000
+}
